@@ -114,9 +114,21 @@ C:\WarriorActivator\dependencies
 
 ## ⚠️ Important Notes
 
+- During the bypass process, the device may **reboot multiple times (15+ reboots)**  
+  🔁 This is **NORMAL behavior** and part of the activation process.
+
+- The bypass process may take **between 12 to 20 minutes**, depending on the device and connection speed.
+
+- ⛔ **Do NOT interrupt the process**
+  - Do not disconnect the USB cable
+  - Do not close the tool
+  - Do not interact with the device
+
+- ✅ Simply **wait patiently** until the process completes.
+
 - Temporarily **disable antivirus** if it blocks installers  
-- Do **not close** CMD windows during installation  
 - Always run installers and **Warrior Activator** as **Administrator**
+
 
 ![Notes](https://github.com/user-attachments/assets/034f149d-ec39-43dc-a718-99b31901fa34)
 
