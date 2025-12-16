@@ -64,23 +64,51 @@ C:\WarriorActivator\dependencies
 
 ![Dependencies](https://github.com/user-attachments/assets/5c8993e1-46b2-44c5-a764-5889f8ef949c)
 
-### Installation Steps:
-1. Run **install1.bat** → *Run as Administrator*
-2. Wait until completion
-3. Run **install2.bat** → *Run as Administrator*
-4. Wait until completion
 
-✅ After that, you can run **Warrior Activator** normally.
+### Installation Order (IMPORTANT):
 
----
+1️⃣ **Install python.exe first**
+- Double-click **python.exe**
+- Make sure to check **“Add Python to PATH”**
+- Complete the installation
 
-## ✅ Usage Requirements
+2️⃣ Run **install1.bat** → *Run as Administrator*  
+⏳ Wait until the installation completes
 
-- 📶 Stable WiFi connection  
-- 🔒 Device must stay on **Activation Lock screen**  
-- 🔌 Use a good USB cable (avoid hubs)  
-- 🔋 Battery above 50%  
-- ⏳ Do not interrupt the process  
+3️⃣ Run **install2.bat** → *Run as Administrator*  
+⏳ Wait until the installation completes
+
+✅ After completing all steps, you can safely run **Warrior Activator**.
+
+
+## ✅ To Maximize Success Rate
+
+1️⃣ **Ensure WiFi Connection**
+- Device must be connected to WiFi
+- Stable internet connection required
+
+2️⃣ **Device on Activation Lock Screen**
+- Keep the device on the Activation Lock screen
+- Do not navigate away during the process
+
+3️⃣ **Stable USB Connection**
+- Use a high-quality USB cable
+- Avoid USB hubs if possible
+- Keep the device connected at all times
+
+4️⃣ **Battery Level**
+- Battery level must be above **50%**
+- Keep the device plugged in if possible
+
+5️⃣ **Wait for Completion**
+- Do not interrupt the process
+- Allow all retries to finish
+- Be patient during reboots
+
+6️⃣ **Check Compatibility**
+- Ensure device model is supported
+- Verify iOS version compatibility
+
 
 ---
 
