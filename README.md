@@ -81,7 +81,7 @@ Once both installations are finished, you can safely run **Warrior Activator**.
 2. ✅ Device on Activation Lock Screen
    - Keep device on Activation Lock screen
    - Don't navigate away during process
-   - <img width="694" height="834" alt="image" src="https://github.com/user-attachments/assets/703ec26f-ef03-4ced-993f-6ac2e132c9c6" />
+   
 
 3. ✅ Stable USB Connection
    - Use quality USB cable
