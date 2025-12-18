@@ -137,7 +137,7 @@ C:\WarriorActivator\dependencies
 ## 🚀 Limited Free Release
 
 ⚠️ This is a **limited-time FREE version**.  
-Early users will **retain access permanently**.
+
 
 ---
 
