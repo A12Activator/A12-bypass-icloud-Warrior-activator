@@ -184,13 +184,14 @@ Arabic :
 
 سجل حسابك هنا: 👉 https://warrior-activator.cloud/register
 
-
+![Register](https://github.com/user-attachments/assets/89a6c5f2-b585-4ec4-8751-483b63cc5e50)
 
 2️⃣ تسجيل الرقم التسلسلي
 
+
 بعد تسجيل الدخول، قم بتسجيل الرقم التسلسلي من لوحة التحكم الخاصة بك.
 
-
+![Register Serial](https://github.com/user-attachments/assets/8e5c7696-d541-4981-a92f-ca3ae1f83a98)
 
 ⬇️ التنزيل والتثبيت
 
@@ -204,7 +205,7 @@ Arabic :
 
 📁 المسار: C:\WarriorActivator\dependencies
 
-
+![Dependencies](https://github.com/user-attachments/assets/5c8993e1-46b2-44c5-a764-5889f8ef949c)
 
 ترتيب التثبيت (مهم):
 
@@ -284,7 +285,7 @@ Arabic :
 
 دائمًا شغّل المثبتات ومحرك المحارب كـ مسؤول
 
-
+![Notes](https://github.com/user-attachments/assets/034f149d-ec39-43dc-a718-99b31901fa34)
 
 🚀 إصدار مجاني محدود
 
