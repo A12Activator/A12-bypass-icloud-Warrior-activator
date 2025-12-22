@@ -1,8 +1,6 @@
 # 🔓 Warrior Activator
 
 ## iCloud Bypass Tool 
-**Warrior Activator** is currently released 
-
 
 Built specifically for **technicians and repair shops**, Warrior Activator delivers a clean workflow, fast execution, and stable results.
 
@@ -133,13 +131,6 @@ C:\WarriorActivator\dependencies
 
 ---
 
-## 🚀 Limited Free Release
-
-⚠️ This is a **limited-time FREE version**.  
-
-
----
-
 ## 📩 Support
 
 Telegram Support:  
@@ -149,9 +140,7 @@ Telegram Support:
 Arabic :
 
 
-أداة تجاوز iCloud — مجانًا لفترة محدودة
-
-محرك المحارب متاح حاليًا مجانًا 100% لفترة محدودة. سيحصل المستخدمون الأوائل على وصول مدى الحياة حتى بعد أن تصبح الأداة مدفوعة.
+أداة تجاوز iCloud
 
 تم تصميمها خصيصًا لـ الفنيين وورش الإصلاح، يوفر محرك المحارب سير عمل نظيف، تنفيذ سريع، ونتائج مستقرة.
 
@@ -286,9 +275,6 @@ Arabic :
 
 ![Notes](https://github.com/user-attachments/assets/034f149d-ec39-43dc-a718-99b31901fa34)
 
-🚀 إصدار مجاني محدود
-
-⚠️ هذا إصدار مجاني لفترة محدودة.
 
 📩 الدعم
 
