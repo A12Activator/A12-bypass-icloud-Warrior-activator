@@ -1,9 +1,8 @@
 # 🔓 Warrior Activator
 
-## iCloud Bypass Tool — FREE for a Limited Time
+## iCloud Bypass Tool 
+**Warrior Activator** is currently released 
 
-**Warrior Activator** is currently released **100% FREE for a limited time**.  
-Early users will **keep lifetime access** even after the tool becomes paid.
 
 Built specifically for **technicians and repair shops**, Warrior Activator delivers a clean workflow, fast execution, and stable results.
 
