@@ -13,7 +13,7 @@ Built specifically for **technicians and repair shops**, Warrior Activator deliv
 - Dependencies Setup
 - Usage Requirements
 - Important Notes
-- Free Offer
+
 - Support
 
 ---
