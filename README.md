@@ -20,7 +20,7 @@ Built specifically for **technicians and repair shops**, Warrior Activator deliv
 
 ## ✨ Features
 
-✔️ iCloud Bypass from **iPhone XR up to iPhone 17**  
+✔️ iCloud Bypass from **iPhone 6 up to iPhone 17**  
 ✔️ Fast, stable, clean logs  
 ✔️ Designed for technicians & repair shops  
 ✔️ Serial-based activation system  
@@ -164,7 +164,7 @@ Arabic :
 
 ✨ الميزات
 
-✔️ تجاوز iCloud من iPhone XR حتى iPhone 17✔️ سجلات سريعة ومستقرة ونظيفة✔️ مصممة للفنيين وورش الإصلاح✔️ نظام تفعيل يعتمد على الرقم التسلسلي✔️ واجهة مستخدم احترافية وبسيطة
+✔️ تجاوز iCloud من iPhone 6 حتى iPhone 17✔️ سجلات سريعة ومستقرة ونظيفة✔️ مصممة للفنيين وورش الإصلاح✔️ نظام تفعيل يعتمد على الرقم التسلسلي✔️ واجهة مستخدم احترافية وبسيطة
 
 📝 تسجيل الحساب والرقم التسلسلي
 
