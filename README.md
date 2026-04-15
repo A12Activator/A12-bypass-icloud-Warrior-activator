@@ -34,12 +34,16 @@ Built specifically for **technicians and repair shops**, Warrior Activator deliv
 Register your account here:  
 👉 https://warrior-activator.cloud/register
 
-![Register](https://github.com/user-attachments/assets/89a6c5f2-b585-4ec4-8751-483b63cc5e50)
+![Register](<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/f1f4a345-457a-4069-900f-65193daa3a67" />
+)
 
 ### 2️⃣ Register Serial Number
 After login, register your serial from your dashboard.
 
-![Register Serial](https://github.com/user-attachments/assets/8e5c7696-d541-4981-a92f-ca3ae1f83a98)
+![Register Serial](<img width="1901" height="943" alt="image" src="https://github.com/user-attachments/assets/4be9349e-5fff-463e-a4dd-c3cb810a0bca" />
+
+
+)
 
 ---
 
@@ -48,36 +52,10 @@ After login, register your serial from your dashboard.
 After login, go to the **Download Center**.  
 🔐 The **download password** is available **inside your account**.
 
-![Download](https://github.com/user-attachments/assets/2c611a3e-6a1f-4667-b57a-f44ae7162fa5)
+![Download](<img width="1925" height="1026" alt="image" src="https://github.com/user-attachments/assets/0973b2c3-3b5e-4583-979d-7c410d9768f7" />
+)
 
 ---
-
-## 📦 Dependencies Setup
-
-Before running **Warrior Activator**, install required dependencies.
-
-📁 Path:
-C:\WarriorActivator\dependencies
-
-![Dependencies](https://github.com/user-attachments/assets/5c8993e1-46b2-44c5-a764-5889f8ef949c)
-
-
-### Installation Order (IMPORTANT):
-
-1️⃣ **Install python.exe first**
-- Double-click **python.exe**
-- Make sure to check **“Add Python to PATH”**
-- Complete the installation
-
-2️⃣ Run **install1.bat** → *Run as Administrator*  
-⏳ Wait until the installation completes
-
-3️⃣ Run **install2.bat** → *Run as Administrator*  
-⏳ Wait until the installation completes
-
-✅ After completing all steps, you can safely run **Warrior Activator**.
-
-
 ## ✅ To Maximize Success Rate
 
 1️⃣ **Ensure WiFi Connection**
@@ -111,10 +89,10 @@ C:\WarriorActivator\dependencies
 
 ## ⚠️ Important Notes
 
-- During the bypass process, the device may **reboot multiple times (15+ reboots)**  
+- During the bypass process, the device may **reboot multiple times (6+ reboots)**  
   🔁 This is **NORMAL behavior** and part of the activation process.
 
-- The bypass process may take **between 12 to 20 minutes**, depending on the device and connection speed.
+- The bypass process may take **between 5 to 10 minutes**, depending on the device and connection speed.
 
 - ⛔ **Do NOT interrupt the process**
   - Do not disconnect the USB cable
@@ -127,7 +105,8 @@ C:\WarriorActivator\dependencies
 - Always run installers and **Warrior Activator** as **Administrator**
 
 
-![Notes](https://github.com/user-attachments/assets/034f149d-ec39-43dc-a718-99b31901fa34)
+![Notes](<img width="642" height="547" alt="image" src="https://github.com/user-attachments/assets/318db7f3-e86b-4c9d-a2b2-309524d0d30e" />
+)
 
 ---
 
@@ -138,149 +117,122 @@ Telegram Support:
 
 ---
 Arabic :
+# 🔓 Warrior Activator
 
+## أداة تجاوز iCloud 
 
-أداة تجاوز iCloud
+تم تطوير هذه الأداة خصيصًا لـ **الفنيين ومحلات الصيانة**، حيث يوفر Warrior Activator سير عمل نظيف، تنفيذ سريع، ونتائج مستقرة.
 
-تم تصميمها خصيصًا لـ الفنيين وورش الإصلاح، يوفر محرك المحارب سير عمل نظيف، تنفيذ سريع، ونتائج مستقرة.
+---
 
-📌 جدول المحتويات
+## 📌 جدول المحتويات
+- الميزات
+- إنشاء الحساب وتسجيل السيريال
+- التحميل والتثبيت
+- إعداد المتطلبات
+- متطلبات الاستخدام
+- ملاحظات مهمة
 
-الميزات
+- الدعم
 
-تسجيل الحساب والرقم التسلسلي
+---
 
-التنزيل والتثبيت
+## ✨ الميزات
 
-إعداد التبعيات
+✔️ تجاوز iCloud من **iPhone 6 إلى iPhone 17**  
+✔️ أداء سريع ومستقر مع سجلات نظيفة  
+✔️ مصمم للفنيين ومحلات الصيانة  
+✔️ نظام تفعيل يعتمد على السيريال  
+✔️ واجهة احترافية وسهلة الاستخدام  
 
-متطلبات الاستخدام
+---
 
-ملاحظات مهمة
+## 📝 إنشاء الحساب وتسجيل السيريال
 
-العرض المجاني
+### 1️⃣ إنشاء حساب
+قم بإنشاء حساب من هنا:  
+👉 https://warrior-activator.cloud/register
 
-الدعم
+![Register](<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/f1f4a345-457a-4069-900f-65193daa3a67" />
+)
 
-✨ الميزات
+### 2️⃣ تسجيل رقم السيريال
+بعد تسجيل الدخول، قم بإضافة السيريال الخاص بك من لوحة التحكم.
 
-✔️ تجاوز iCloud من iPhone 6 حتى iPhone 17✔️ سجلات سريعة ومستقرة ونظيفة✔️ مصممة للفنيين وورش الإصلاح✔️ نظام تفعيل يعتمد على الرقم التسلسلي✔️ واجهة مستخدم احترافية وبسيطة
+![Register Serial](<img width="1901" height="943" alt="image" src="https://github.com/user-attachments/assets/4be9349e-5fff-463e-a4dd-c3cb810a0bca" />
 
-📝 تسجيل الحساب والرقم التسلسلي
 
-1️⃣ إنشاء حساب
+)
 
-سجل حسابك هنا: 👉 https://warrior-activator.cloud/register
+---
 
-![Register](https://github.com/user-attachments/assets/89a6c5f2-b585-4ec4-8751-483b63cc5e50)
+## ⬇️ التحميل والتثبيت
 
-2️⃣ تسجيل الرقم التسلسلي
+بعد تسجيل الدخول، توجه إلى **مركز التحميل**.  
+🔐 كلمة مرور التحميل متوفرة **داخل حسابك**.
 
+![Download](<img width="1925" height="1026" alt="image" src="https://github.com/user-attachments/assets/0973b2c3-3b5e-4583-979d-7c410d9768f7" />
+)
 
-بعد تسجيل الدخول، قم بتسجيل الرقم التسلسلي من لوحة التحكم الخاصة بك.
+---
+## ✅ لزيادة نسبة النجاح
 
-![Register Serial](https://github.com/user-attachments/assets/8e5c7696-d541-4981-a92f-ca3ae1f83a98)
+1️⃣ **تأكد من اتصال WiFi**
+- يجب أن يكون الجهاز متصل بالواي فاي  
+- اتصال إنترنت مستقر مطلوب  
 
-⬇️ التنزيل والتثبيت
+2️⃣ **الجهاز في شاشة Activation Lock**
+- اترك الجهاز في شاشة القفل  
+- لا تقم بالتنقل أثناء العملية  
 
-بعد تسجيل الدخول، اذهب إلى مركز التنزيلات. 🔐 كلمة مرور التنزيل متوفرة داخل حسابك.
+3️⃣ **اتصال USB مستقر**
+- استخدم كابل USB عالي الجودة  
+- تجنب استخدام USB Hub  
+- حافظ على الاتصال طوال العملية  
 
+4️⃣ **مستوى البطارية**
+- يجب أن تكون البطارية فوق **50%**  
+- يُفضل إبقاء الجهاز موصولًا بالشحن  
 
-![Download](https://github.com/user-attachments/assets/2c611a3e-6a1f-4667-b57a-f44ae7162fa5)
-📦 إعداد التبعيات
+5️⃣ **انتظر حتى الاكتمال**
+- لا تقم بإيقاف العملية  
+- اترك جميع المحاولات تكتمل  
+- كن صبورًا أثناء إعادة التشغيل  
 
-قبل تشغيل محرك المحارب، قم بتثبيت التبعيات المطلوبة.
+6️⃣ **تحقق من التوافق**
+- تأكد أن الجهاز مدعوم  
+- تحقق من توافق إصدار iOS  
 
-📁 المسار: C:\WarriorActivator\dependencies
+---
 
-![Dependencies](https://github.com/user-attachments/assets/5c8993e1-46b2-44c5-a764-5889f8ef949c)
+## ⚠️ ملاحظات مهمة
 
-ترتيب التثبيت (مهم):
+- أثناء عملية التجاوز، قد يقوم الجهاز بـ **إعادة التشغيل عدة مرات (6 مرات أو أكثر)**  
+  🔁 هذا **سلوك طبيعي** وجزء من العملية  
 
-1️⃣ قم بتثبيت python.exe أولاً
+- قد تستغرق العملية **من 5 إلى 10 دقائق** حسب الجهاز وسرعة الاتصال  
 
-انقر نقرًا مزدوجًا على python.exe
+- ⛔ **لا تقم بمقاطعة العملية**
+  - لا تفصل كابل USB  
+  - لا تغلق الأداة  
+  - لا تتفاعل مع الجهاز  
 
-تأكد من تحديد خيار "إضافة بايثون إلى PATH"
+- ✅ فقط **انتظر بصبر** حتى تنتهي العملية  
 
-أكمل التثبيت
+- قم بإيقاف برنامج الحماية مؤقتًا إذا قام بحظر الأداة  
+- شغّل الأداة دائمًا بصلاحيات **Administrator**
 
-2️⃣ شغّل install1.bat → تشغيل كمسؤول⏳ انتظر حتى يكتمل التثبيت
+![Notes](<img width="642" height="547" alt="image" src="https://github.com/user-attachments/assets/318db7f3-e86b-4c9d-a2b2-309524d0d30e" />
+)
 
-3️⃣ شغّل install2.bat → تشغيل كمسؤول⏳ انتظر حتى يكتمل التثبيت
+---
 
-✅ بعد إكمال جميع الخطوات، يمكنك تشغيل محرك المحارب بأمان.
+## 📩 الدعم
 
-✅ لتعزيز معدل النجاح
+دعم تيليجرام:  
+👉 https://t.me/WarriorActivatorA12
 
-1️⃣ تأكد من اتصال WiFi
-
-يجب أن يكون الجهاز متصلًا بشبكة WiFi
-
-اتصال إنترنت مستقر مطلوب
-
-2️⃣ الجهاز على شاشة قفل التفعيل
-
-احتفظ بالجهاز على شاشة قفل التفعيل
-
-لا تنتقل بعيدًا أثناء العملية
-
-3️⃣ اتصال USB مستقر
-
-استخدم كابل USB عالي الجودة
-
-تجنب استخدام موزعات USB إن أمكن
-
-احتفظ بالجهاز متصلاً في جميع الأوقات
-
-4️⃣ مستوى البطارية
-
-يجب أن يكون مستوى البطارية فوق 50%
-
-احتفظ بالجهاز موصولًا بالكهرباء إن أمكن
-
-5️⃣ انتظر حتى الانتهاء
-
-لا تقاطع العملية
-
-اسمح لجميع محاولات الإعادة بالانتهاء
-
-كن صبورًا أثناء إعادة التشغيل
-
-6️⃣ تحقق من التوافق
-
-تأكد من أن طراز الجهاز مدعوم
-
-تحقق من توافق إصدار iOS
-
-⚠️ ملاحظات مهمة
-
-خلال عملية التجاوز، قد يعيد الجهاز التشغيل عدة مرات (أكثر من 15 مرة)🔁 هذا سلوك طبيعي وجزء من عملية التفعيل.
-
-قد تستغرق عملية التجاوز بين 12 إلى 20 دقيقة، حسب الجهاز وسرعة الاتصال.
-
-⛔ لا تقاطع العملية
-
-لا تفصل كابل USB
-
-لا تغلق الأداة
-
-لا تتفاعل مع الجهاز
-
-✅ ببساطة انتظر بصبر حتى تكتمل العملية.
-
-قم بتعطيل مضاد الفيروسات مؤقتًا إذا كان يمنع المثبتات
-
-دائمًا شغّل المثبتات ومحرك المحارب كـ مسؤول
-
-![Notes](https://github.com/user-attachments/assets/034f149d-ec39-43dc-a718-99b31901fa34)
-
-
-📩 الدعم
-
-دعم تيليجرام: 👉 https://t.me/WarriorActivatorA12
-
-🔥 مصمم للمحترفين🔧 مجرب من قبل الفنيين💻 مصمم ليعمل
+---
 
 🔥 Built for professionals  
 🔧 Tested by technicians  
