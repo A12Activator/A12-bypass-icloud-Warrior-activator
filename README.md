@@ -34,12 +34,12 @@ Built specifically for **technicians and repair shops**, Warrior Activator deliv
 Register your account here:  
 👉 https://warrior-activator.cloud/register
 
-(<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/f1f4a345-457a-4069-900f-65193daa3a67" />)
+<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/f1f4a345-457a-4069-900f-65193daa3a67" />
 
 ### 2️⃣ Register Serial Number
 After login, register your serial from your dashboard.
 
-(<img width="1901" height="943" alt="image" src="https://github.com/user-attachments/assets/4be9349e-5fff-463e-a4dd-c3cb810a0bca" />)
+<img width="1901" height="943" alt="image" src="https://github.com/user-attachments/assets/4be9349e-5fff-463e-a4dd-c3cb810a0bca" />
 
 ---
 
@@ -48,8 +48,7 @@ After login, register your serial from your dashboard.
 After login, go to the **Download Center**.  
 🔐 The **download password** is available **inside your account**.
 
-![Download](<img width="1925" height="1026" alt="image" src="https://github.com/user-attachments/assets/0973b2c3-3b5e-4583-979d-7c410d9768f7" />
-)
+<img width="1925" height="1026" alt="image" src="https://github.com/user-attachments/assets/0973b2c3-3b5e-4583-979d-7c410d9768f7" />
 
 ---
 ## ✅ To Maximize Success Rate
@@ -101,7 +100,7 @@ After login, go to the **Download Center**.
 - Always run installers and **Warrior Activator** as **Administrator**
 
 
-(<img width="642" height="547" alt="image" src="https://github.com/user-attachments/assets/318db7f3-e86b-4c9d-a2b2-309524d0d30e" />)
+<img width="642" height="547" alt="image" src="https://github.com/user-attachments/assets/318db7f3-e86b-4c9d-a2b2-309524d0d30e" />
 
 ---
 
@@ -148,12 +147,12 @@ Arabic :
 قم بإنشاء حساب من هنا:  
 👉 https://warrior-activator.cloud/register
 
-(<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/f1f4a345-457a-4069-900f-65193daa3a67" />)
+<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/f1f4a345-457a-4069-900f-65193daa3a67" />
 
 ### 2️⃣ تسجيل رقم السيريال
 بعد تسجيل الدخول، قم بإضافة السيريال الخاص بك من لوحة التحكم.
 
-(<img width="1901" height="943" alt="image" src="https://github.com/user-attachments/assets/4be9349e-5fff-463e-a4dd-c3cb810a0bca" />)
+<img width="1901" height="943" alt="image" src="https://github.com/user-attachments/assets/4be9349e-5fff-463e-a4dd-c3cb810a0bca" />
 
 ---
 
@@ -162,7 +161,7 @@ Arabic :
 بعد تسجيل الدخول، توجه إلى **مركز التحميل**.  
 🔐 كلمة مرور التحميل متوفرة **داخل حسابك**.
 
-(<img width="1925" height="1026" alt="image" src="https://github.com/user-attachments/assets/0973b2c3-3b5e-4583-979d-7c410d9768f7" />)
+<img width="1925" height="1026" alt="image" src="https://github.com/user-attachments/assets/0973b2c3-3b5e-4583-979d-7c410d9768f7" />
 
 ---
 ## ✅ لزيادة نسبة النجاح
@@ -212,7 +211,7 @@ Arabic :
 - قم بإيقاف برنامج الحماية مؤقتًا إذا قام بحظر الأداة  
 - شغّل الأداة دائمًا بصلاحيات **Administrator**
 
-(<img width="642" height="547" alt="image" src="https://github.com/user-attachments/assets/318db7f3-e86b-4c9d-a2b2-309524d0d30e" />)
+<img width="642" height="547" alt="image" src="https://github.com/user-attachments/assets/318db7f3-e86b-4c9d-a2b2-309524d0d30e" />
 
 ---
 
